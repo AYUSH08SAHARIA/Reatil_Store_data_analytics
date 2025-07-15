@@ -1,1 +1,1 @@
-# Reatil_Store_data_analytics
+# Retail_Store_data_analytics
